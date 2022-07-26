@@ -1,0 +1,126 @@
+2022-07-05 09:04:20,522 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 09:04:23,063 [.NET ThreadPool Worker] INFO  App  
+ Token information saved sucessfully for ClientId 4b4ff18fcb86ae8bc457572f70e7b6a3 
+ 
+2022-07-05 09:05:44,938 [.NET ThreadPool Worker] INFO  App  
+ Successfully saved lead Tyler Testing. 
+ 
+2022-07-05 09:20:09,138 [.NET ThreadPool Worker] INFO  App  
+ Failed to find registered client: string 
+ 
+2022-07-05 09:20:09,152 [.NET ThreadPool Worker] WARN  App  
+ Client: string has not been registered. 
+ 
+2022-07-05 09:20:54,022 [.NET ThreadPool Worker] INFO  App  
+ Failed to find registered client: string 
+ 
+2022-07-05 09:20:54,028 [.NET ThreadPool Worker] WARN  App  
+ Client: string has not been registered. 
+ 
+2022-07-05 10:26:18,895 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 10:26:52,374 [.NET ThreadPool Worker] INFO  App  
+ Token information saved sucessfully for ClientId 4b4ff18fcb86ae8bc457572f70e7b6a3 
+ 
+2022-07-05 10:28:05,080 [.NET ThreadPool Worker] INFO  App  
+ Token information saved sucessfully for ClientId 4b4ff18fcb86ae8bc457572f70e7b6a3 
+ 
+2022-07-05 12:17:22,344 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 12:18:32,002 [.NET ThreadPool Worker] ERROR App  
+ Failed to save ClientId:0. 
+ 
+2022-07-05 12:20:38,812 [.NET ThreadPool Worker] ERROR App  
+ Failed to save ClientId:0. 
+ 
+2022-07-05 12:26:45,148 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 12:27:13,809 [.NET ThreadPool Worker] ERROR App  
+ Failed to save ClientId:0. 
+ 
+2022-07-05 12:29:05,422 [.NET ThreadPool Worker] INFO  App  
+ ClientId:5 successfully saved. 
+ 
+2022-07-05 12:30:29,050 [.NET ThreadPool Worker] INFO  App  
+ Token information saved sucessfully for ClientId 911 
+ 
+2022-07-05 12:31:06,739 [.NET ThreadPool Worker] INFO  App  
+ Token information saved sucessfully for ClientId 911 
+ 
+2022-07-05 12:33:46,024 [.NET ThreadPool Worker] INFO  App  
+ Successfully saved lead Police Officer. 
+ 
+2022-07-05 12:38:16,181 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 12:38:54,052 [.NET ThreadPool Worker] ERROR App  
+ Failed to save lead Police Officer. 
+ 
+2022-07-05 12:46:31,637 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 12:46:51,937 [.NET ThreadPool Worker] INFO  App  
+ Successfully saved lead Police Officer. 
+ 
+2022-07-05 13:14:27,029 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 13:14:28,979 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-05 17:20:06,734 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 17:20:41,507 [.NET ThreadPool Worker] WARN  App  
+ Refresh token does not exist or is not active. 
+ 
+2022-07-05 17:20:41,514 [.NET ThreadPool Worker] ERROR App  
+ Failed to generate new token. 
+ 
+2022-07-05 17:21:39,929 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-05 18:01:59,128 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 18:02:02,938 [.NET ThreadPool Worker] ERROR App  
+ Unable to track an entity of type 'Client' because its primary key property 'Id' is null. 
+ 
+2022-07-05 18:06:24,238 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 18:11:17,447 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-05 18:11:42,992 [.NET ThreadPool Worker] WARN  App  
+ Refresh token does not exist or is not active. 
+ 
+2022-07-05 18:11:42,999 [.NET ThreadPool Worker] ERROR App  
+ Failed to generate new token. 
+ 
+2022-07-05 18:12:22,069 [.NET ThreadPool Worker] WARN  App  
+ Refresh token does not exist or is not active. 
+ 
+2022-07-05 18:13:01,371 [.NET ThreadPool Worker] ERROR App  
+ Failed to generate new token. 
+ 
+2022-07-05 18:25:42,308 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 18:39:54,267 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 18:41:43,678 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-05 18:46:55,311 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-05 19:03:49,570 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 

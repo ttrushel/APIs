@@ -1,0 +1,27 @@
+2022-07-20 15:21:22,386 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-20 15:21:34,231 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-20 15:22:18,625 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-20 15:25:12,913 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-20 15:25:22,011 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-20 15:29:22,953 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-20 15:29:31,808 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-20 15:29:38,115 [8] ERROR App  
+ Response status code does not indicate success: 401 (Unauthorized). 
+ 
+2022-07-20 15:30:10,279 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 

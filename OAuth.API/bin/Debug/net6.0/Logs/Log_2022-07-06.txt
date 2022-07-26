@@ -1,0 +1,25 @@
+2022-07-06 09:57:27,138 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-06 12:33:44,037 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-06 12:38:16,890 [.NET ThreadPool Worker] WARN  App  
+ Request phone number is not valid. 
+ 
+2022-07-06 12:40:18,863 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-06 12:42:55,483 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-06 12:43:27,517 [.NET ThreadPool Worker] ERROR App  
+ Failed to save contact Tyer Tester.Exception message: An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-06 12:44:42,905 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-06 12:44:56,532 [.NET ThreadPool Worker] ERROR App  
+ Failed to save contact Tyer Tester.Exception message: An error occurred while saving the entity changes. See the inner exception for details. Inner exception details: Violation of PRIMARY KEY constraint 'PK_Contacts'. Cannot insert duplicate key in object 'dbo.Contacts'. The duplicate key value is (2).
+The statement has been terminated. 
+ 

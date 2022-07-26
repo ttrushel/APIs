@@ -1,0 +1,12 @@
+2022-07-21 09:10:06,840 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-21 09:10:20,254 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-21 09:11:20,860 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 
+2022-07-21 09:11:37,448 [.NET ThreadPool Worker] ERROR App  
+ An error occurred while saving the entity changes. See the inner exception for details. 
+ 

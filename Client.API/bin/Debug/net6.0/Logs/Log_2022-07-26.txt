@@ -1,0 +1,6 @@
+2022-07-26 10:00:20,648 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
+2022-07-26 12:19:54,704 [.NET ThreadPool Worker] INFO  App  
+ Log System Initialized 
+ 
